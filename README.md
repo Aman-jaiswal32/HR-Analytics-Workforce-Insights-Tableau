@@ -181,13 +181,13 @@ The primary objectives of this project were to:
 
 ## 👥 HR Overview Dashboard (Filter Panel)
 
-> <img src="Images/HR%20Overview%20Dashboard%20With%20FIlters.png" width="800">
+> <img src="images/HR%20Overview%20Dashboard%20With%20FIlters.png" width="800">
 
 ---
 
 ## 📄 Employee Records Dashboard
 
-> <img src="Images/HR%20Detail%20Dashboard.png" width="800">
+> <img src="images/HR%20Detail%20Dashboard.png" width="800">
 
 ---
 
@@ -394,7 +394,7 @@ A custom **Show/Hide Filter Panel** allows users to:
 
 ### Preview
 
-> <img src="Images/HR%20Overview%20Dashboard%20With%20FIlters.png" width="800">
+> <img src="images/HR%20Overview%20Dashboard%20With%20FIlters.png" width="800">
 
 ---
 
@@ -430,7 +430,7 @@ This improves dashboard readability while reducing visual clutter.
 
 ### Preview
 
-> <img src="Images/Dynamic%20Tooltip.png" width="800">
+> <img src="images/Dynamic%20Tooltip.png" width="800">
 
 ---
 
@@ -460,7 +460,7 @@ This improves usability for first-time users.
 
 ### Preview
 
-> <img src="Images/Info%20Page.png" width="800">
+> <img src="images/Info%20Page.png" width="800">
 
 ---
 
